@@ -7,6 +7,33 @@ WARNING FROM THE DEVELOPER(S):
 The developer & microsoft takes no responsibilities for any damages this mod may do to either your software or hardware, you agree by downloading and installing this mod that you are fully held responsible for all damages that ouccured to your system by using this mod, though this may not happen, nothing is impossible. So please ensure you are aware on how to install windows and backup all sensitive files before installing this mod. USE AT YOUR OWN RISK!!!
 
 
+#CHANGELOGS:#
+
+What we changed different to what your normally used to
+
+- Set CPU Schedule Performance I/O from manual to Automatic (We set this so windows 11 can auto set.the.gonor.of.yoyr.cpu to max or power saving based on your usage)
+
+- Added the UCMCLIENT driver for motherboards that supports it, Microsoft does not include this when installing neither the manufacture
+
+- Removed all UWP apps except: Edge, & Microsoft Store all apps that previously installs in the normal version can be required in the MC Store.
+
+- Improvement to RAM without updates and having NGE installed 3.0GB is being used (unless a take  of apps are running in the background)
+
+- Onedrive is disabled by default but shows up installed anyways you can uninstall it from the control panel.
+
+- When installing the OS fresh you do not need to enter a key,.you can do that after the setup or if you already have a paid key, it can detect and use your key automatically by using your HWID  & PID
+
+- Windows 11 Setup is now white instead of purple
+
+- Boot times are a bit faster and opening and closing windows are faster
+
+-  In Explorer Everytime you open explorer you will always be brought to "This PC" instead of the default stock quick access page, this way makes it easier to get to your drives
+
+- System is update friendly you choose when to install them.
+
+- GPU Hardware Scheduling is now enabled by default.
+
+
 
 BEFORE YOU GET STARTED:
 
