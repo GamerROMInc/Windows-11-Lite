@@ -21,7 +21,7 @@ What we changed different to what your normally used to
 
 - Onedrive is disabled by default but shows up installed anyways you can uninstall it from the control panel.
 
-- When installing the OS fresh you do not need to enter a key,.you can do that after the setup or if you already have a paid key, it can detect and use your key automatically by using your HWID  & PID
+- When installing the OS fresh you do not need to enter a key, you can do that after the setup or if you already have a paid key, it can detect and use your key automatically by using your HWID  & PID
 
 - Windows 11 Setup is now white instead of purple
 
