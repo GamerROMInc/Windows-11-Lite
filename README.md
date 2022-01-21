@@ -55,7 +55,7 @@ This build also includes the "UCMCLIENT" driver that microsoft cant find unless 
 
 - Windows 11 Home Lite: COMING SOON
 
-- Windows 11 Pro Lite: COMING SOON
+- Windows 11 Pro Lite: https://www.mediafire.com/folder/zap2mu94pv2nk/Windoiws+11+Pro+x64+Lite
 
 
 HOW TO INSTALL:
@@ -63,6 +63,8 @@ HOW TO INSTALL:
 To install use either Rufus or balenaEtcher flash the ISO for now we will use rufus since balenaEtcher does it already automatically.
 
 On RUFUS plug in your usb flash drive (8GB) and then press the select button to load your ISO. Once your ISO has been loaded ensure the below options are set to "GPT" and "UEFI (non CSM)" and then the file system format is on "NTFS" then click start (this will take some time to do, so please wait) you will know its done it will make a sound and the progress bar will show as DONE.
+
+The shutdown your PC and proceed to enter your bios, ensure that you boot into the flash drive manually instead of setting it as the 1st drive to boot when system powers on, this will avoid it rebooting into the installer when system finishes installi9ng windows 11.
 
 
 This project was compiled by using NTLite witch you yourself can contribute to the project https://www.ntlite.com/
