@@ -33,6 +33,8 @@ What we changed different to what your normally used to
 
 - GPU Hardware Scheduling is now enabled by default.
 
+- Windows Defender/Security Center is included
+
 
 
 BEFORE YOU GET STARTED:
