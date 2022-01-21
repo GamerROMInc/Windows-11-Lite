@@ -15,13 +15,11 @@ What we changed different to what your normally used to
 
 - Added the UCMCLIENT driver for motherboards that supports it, Microsoft does not include this when installing neither the manufacture
 
-- Removed all UWP apps except: Edge, & Microsoft Store all apps that previously installs in the normal version can be required in the MC Store.
+- Removed most UWP apps esome are still their because some apps depends on others to function
 
 - Improvement to RAM without updates and having NGE installed 3.0GB is being used (unless a take  of apps are running in the background)
 
 - Onedrive is disabled by default but shows up installed anyways you can uninstall it from the control panel.
-
-- When installing the OS fresh you do not need to enter a key, you can do that after the setup or if you already have a paid key, it can detect and use your key automatically by using your HWID  & PID
 
 - Windows 11 Setup is now white instead of purple
 
@@ -34,6 +32,8 @@ What we changed different to what your normally used to
 - GPU Hardware Scheduling is now enabled by default.
 
 - Windows Defender/Security Center is included
+
+- Promotion apps will show but can be uninstalled but will not auto install when uninstalled
 
 
 
