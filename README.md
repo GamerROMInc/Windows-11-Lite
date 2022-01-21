@@ -41,13 +41,19 @@ To get started you will need the following files/hardware to install this versio
 
 - Rufus/balenaEtcher USB Flashers (Use 1 of them): Get Rufus: https://rufus.ie/en/ | Get balenaEtcher: https://www.balena.io/etcher/
 
-- Windows 11 Pro v1 x64 Lite iso: 
+- Windows 11 Lite build(s)
 
 - USB flash drive with at least 8GB of free space
 
 if you fail to meet the requirements the OS may still install but you may suffer unexpected issues (these changes will change in later updates).
 
 This build also includes the "UCMCLIENT" driver that microsoft cant find unless you use 3rd party driver installers, nither ASUS provides the driver for this built-in hardware component. This build also removes bloatware from installing and they cannot reinstall no matter what unless you manually choose too. This build includes the default basic media graphics driver they provide automatically and will install your GPU driver automatically.
+
+#DOWNLOAD:#
+
+- Windows 11 Home Lite: COMING SOON
+
+- Windows 11 Pro Lite: COMING SOON
 
 
 HOW TO INSTALL:
@@ -57,7 +63,7 @@ To install use either Rufus or balenaEtcher flash the ISO for now we will use ru
 On RUFUS plug in your usb flash drive (8GB) and then press the select button to load your ISO. Once your ISO has been loaded ensure the below options are set to "GPT" and "UEFI (non CSM)" and then the file system format is on "NTFS" then click start (this will take some time to do, so please wait) you will know its done it will make a sound and the progress bar will show as DONE.
 
 
-This project was compiled by using NTLite witch you yourself can contribute to the project https://www.ntlite.com/ we are looking into other chipsets you can submit your request via our business email and we can work togehter to support other motherboards and chipsets.
+This project was compiled by using NTLite witch you yourself can contribute to the project https://www.ntlite.com/
 
 Business Email: gamerrominc@gmail.com
 
