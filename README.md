@@ -11,7 +11,7 @@ The developer & microsoft takes no responsibilities for any damages this mod may
 
 What we changed different to what your normally used to
 
-- Set CPU Schedule Performance I/O from manual to Automatic (We set this so windows 11 can auto set.the.gonor.of.yoyr.cpu to max or power saving based on your usage)
+- Set CPU Schedule Performance I/O from manual to Automatic (We set this so windows 11 can auto set the cpu govonor of your cpu to max or power saving based on your usage)
 
 - Added the UCMCLIENT driver for motherboards that supports it, Microsoft does not include this when installing neither the manufacture
 
